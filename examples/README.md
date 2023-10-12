@@ -348,3 +348,10 @@
 | b4t+pt2+A100(pcie 40G)-fp32-bs4 |  32G      |     2600     |     25.12     |    31.55    |     7.21    |    8.02   |         |
 | b4t+lora+V100-fp16-bs16         |  28G      |     2570     |     24.89     |    31.38    |     7.17    |    8.15   |         |
 | b4t+qlora+V100-bs16             |  26G      |     5381     |     23.99     |    29.52    |     6.47    |    7.74   |         |
+
+## 10.12 Update
+In my test, I used the old version of bert4torch.
+```bash
+$ pip list | grep bert4torch
+bert4torch              0.2.5
+```

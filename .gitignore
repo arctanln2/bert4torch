@@ -16,3 +16,10 @@ bert4torch_test.py
 test/
 *.ckpt
 .vscode
+examples/chinese_L-12_H-768_A-12
+examples/data
+examples/seq2seq/data
+examples/seq2seq/logs
+examples/seq2seq/best_model.pt
+examples/seq2seq/bert_unilm.pt
+examples/seq2seq/chinese_L-12_H-768_A-12.zip
